@@ -68,6 +68,8 @@ class GamesViewController: UIViewController {
     
     @objc func pageChanged() {
         print("Página actual: \(imagePageControl.currentPage)")
+        
+        gameImage.image = UIImage(named: gamePosters[imagePageControl.currentPage].description)
 
         // Actualizar los iconos de los indicadores
         if let selectedImage = UIImage(named: "gow_logo"),
