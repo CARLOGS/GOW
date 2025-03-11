@@ -5,3 +5,86 @@
   Created by CARLO GARCIA on 08/03/25.
   
 */
+
+/* MENU*/
+"menu.option.videogames" = "Video gioco";
+"menu.option.weapons" = "Armi";
+"menu.option.characters" = "Personaggi";
+"menu.option.merchandise" = "Merce";
+
+/* WEAPONS */
+"weapon.name.boomshot" = "Lanciagranate Boomshot";
+"weapon.description.boomshot" = "Era un lanciagranate a pompa a colpo singolo progettato e utilizzato principalmente da Locust, in particolare dal Boomer.";
+"weapon.name.hammerburstii" = "Hammerburst II";
+"weapon.description.hammerburstii" = "Era il fucile d'assalto Locust standard ad alta potenza. Viene spesso indicato come la controparte Locust del fucile d'assalto COG Lancer.";
+"weapon.name.mulcher" = "Mulcher";
+"weapon.description.mulcher" = "Il Mulcher è un pesante fucile Gatling rotante a manovella sviluppato dalla Coalition of Ordered Governi.";
+"weapon.name.bolo_grenade" = "Bologranata";
+"weapon.description.bolo_grenade" = "La Bolo Grenade, altrimenti nota come Granata a Frammentazione, era la granata a frammentazione standard utilizzata dalla Coalition of Ordered Governments, dall'Orda di Locustee dallo Sciame.";
+"weapon.name.boltok" = "Pistola Boltok";
+"weapon.description.boltok" = "Era l'arma standard del Locust, in particolare dei Drones. La pistola continua la filosofia di progettazione delle armi del Locust di creare armi con un'enfasi sulla forza bruta.";
+"weapon.name.lancer" = "Fucile d'assalto Lancer Mark 1";
+"weapon.description.lancer" = "Soprannominato Retro Lancer durante la Lambent Pandemic, è stato il predecessore del fucile d'assalto Lancer Mark 2. Precedentemente il fucile d'assalto principale dell'esercito della Coalition of Ordered Governments, il fucile d'assalto Mark 1 è stato utilizzato durante la Guerra del Pendulum.";
+"weapon.name.lancer2" = "Fucile d'assalto Lancer Mark 2";
+"weapon.description.lancer2" = "Un aggiornamento al fucile d'assalto Lancer Mark 1, prodotto con una baionetta a motosega, maggiore precisione, rinculo inferiore e maggiore capacità di carico delle munizioni ma minore potenza di fuoco rispetto al suo predecessore.";
+"weapon.name.sniper" = "Fucile da cecchino a tiro lungo";
+"weapon.description.sniper" = "Era un fucile da cecchino a colpo singolo di grosso calibro. Creato dalla Coalition of Ordered Governments durante le Guerre Pendulum, il Longshot fu usato anche diciassette anni dopo il Giorno dell'Emersione.";
+"weapon.name.hammer_of_dawn" = "Il martello dell'alba";
+"weapon.description.hammer_of_dawn" = "Il Martello dell'Alba era un laser orbitale, basato su satellite, alimentato da COG Imulsion. I suoi componenti chiave sono stati inventati dallo scienziato dell'UIR Mauris Ivo e completati dal professor Adam Fenix dopo che è stato rubato durante l'Operazione: Livellatore.";
+"weapon.name.mx8" = "Pistola snub MX8";
+"weapon.description.mx8" = "Era l'arma da fianco standard per il personale delle forze armate della Coalition of Ordered Governments";
+
+/* CHARACTERS */
+"character.title" = "CARATTERE";
+"character.name.lancer" = "Marcus Michael Fenix";
+"character.name.dominic" = "Dominic Santiago";
+"character.name.raam" = "RAAM";
+"character.name.augustus" = "Augustus Cole";
+"character.name.damon" = "Damon Baird";
+"character.name.anya" = "Anya Stroud";
+"character.name.anthony" = "Anthony Carmine";
+"character.name.minh" = "Minh Young Kim";
+
+"character.description.lancer" = "Marcus Michael Fenix, Sergente dell'Esercito della Coalizione dei Governi Ordinati (CGO), protagonista e personaggio principale della prima saga dell'universo di Gears of War. Famoso soldato durante le Guerre Pendulum, si è guadagnato la Embry Star, la più alta decorazione di tutte, per le sue grandi gesta nella Battaglia dei Campi Aspho.";
+"character.description.dominic" = "Dominic 'Dom' Santiago, Comandante Soldato delle Forze Armate della Coalizione dei Governi Ordinati. Era un guerriero tenace che possedeva un atteggiamento positivo anche nei momenti peggiori.";
+"character.description.raam" = "Uzil RAAM, Era il secondo Alto Generale dell'Esercito delle Locuste. RAAM una volta era un soldato Drone, poi un membro della Guardia Theron.";
+"character.description.augustus" = "Augustus 'Il Treno Cole', un soldato specializzato nelle Forze Armate della Coalizione dei Governi Ordinati, era un giocatore di Thrashball di successo noto per il suo stile stravagante ed energico.";
+"character.description.damon" = "Il Capo Damon S. Baird, già Tenente, era un soldato Gear, un genio in vari campi tecnici, meccanici e scientifici.";
+"character.description.anya" = "Il Primo Ministro Anya Stroud, Era il primo ministro della ristabilita Coalizione di Governi Ordinati e un ufficiale in pensione dell'Esercito COG durante le Guerre Pendolo e la Guerra delle Locuste.";
+"character.description.anthony" = "Il soldato Anthony Carmine, Era il fratello di Benjamin Carmine e Clayton Carmine. Il membro più giovane dei Delta-One, Anthony compensa la sua mancanza di esperienza con un entusiasmo sfrenato e un vero rispetto per i veterani di guerra come Marcus e Dom.";
+"character.description.minh" = "Il tenente Minh Young Kim, Faceva parte delle Forze Armate della Coalizione dei Governi Ordinati. Un ufficiale dell'equipaggiamento che prestò servizio durante la Guerra delle locuste, in particolare durante l'offensiva di massa della luce.";
+
+/* MERCHANDISE */
+"merchandise.title" = "MERCE";
+"merchandise.description.m0" = "Coperta in flanella ispirata a Gears of War Crimson Omen";
+"merchandise.currency.m0" = "EUR";
+"merchandise.price.m0" = "6.57";
+"merchandise.store.m0" = "Temu";
+"merchandise.description.m1" = "Tazza personalizzabile Gears of War con cucchiaio";
+"merchandise.currency.m1" = "EUR";
+"merchandise.price.m1" = "11.45";
+"merchandise.store.m1" = "Temu";
+"merchandise.description.m2" = "Lancer Gears of War";
+"merchandise.currency.m2" = "EUR";
+"merchandise.price.m2" = "189.20";
+"merchandise.store.m2" = "Mercado Libre";
+"merchandise.description.m3" = "Cappello da camionista regolabile - Elegante berretto da baseball nero con logo";
+"merchandise.currency.m3" = "EUR";
+"merchandise.price.m3" = "6.04";
+"merchandise.store.m3" = "Amazon";
+"merchandise.description.m4" = "Felpa sportiva Gears Of War (GOW)";
+"merchandise.currency.m4" = "EUR";
+"merchandise.price.m4" = "29.90";
+"merchandise.store.m4" = "Amzon";
+"merchandise.description.m5" = "Collana con ingranaggi di Gears of War";
+"merchandise.currency.m5" = "EUR";
+"merchandise.price.m5" = "8.50";
+"merchandise.store.m5" = "Mercado Libre";
+"merchandise.description.m6" = "Coperta in flanella ispirata a Gears of War Crimson Omen";
+"merchandise.currency.m6" = "EUR";
+"merchandise.price.m6" = "14.29";
+"merchandise.store.m6" = "Amazon";
+"merchandise.description.m7" = "Zaino rosso della scuola Gears of War";
+"merchandise.currency.m7" = "EUR";
+"merchandise.price.m7" = "9.99";
+"merchandise.store.m7" = "Waldo's";

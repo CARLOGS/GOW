@@ -5,4 +5,10 @@
 //  Created by CARLO GARCIA on 09/03/25.
 //
 
-import Foundation
+import UIKit
+
+extension UIView {
+    func setThemeBackgroungColor() {
+        self.backgroundColor = .gowBlack1
+    }
+}

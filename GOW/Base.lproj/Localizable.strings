@@ -1,7 +1,90 @@
-/* 
+/*
   Localizable.strings
   GOW
 
   Created by CARLO GARCIA on 08/03/25.
   
 */
+/* MENU*/
+"menu.option.videogames" = "Videogames";
+"menu.option.weapons" = "Weapons";
+"menu.option.characters" = "Characters";
+"menu.option.merchandise" = "Merchandise";
+
+/* WEAPONS */
+"weapon.name.boomshot" = "Boomshot Grenade Launcher";
+"weapon.description.boomshot" = "It was a single-shot pump-action grenade launcher designed and used primarily by Locust, particularly the Boomer.";
+"weapon.name.hammerburstii" = "Hammerburst II";
+"weapon.description.hammerburstii" = "It was the standard high-powered Locust assault rifle. It is often referred to as the Locust counterpart to the COG Lancer assault rifle.";
+"weapon.name.mulcher" = "Mulcher";
+"weapon.description.mulcher" = "The Mulcher is a heavy, hand-cranked rotating Gatling gun developed by the Coalition of Ordered Governments.";
+"weapon.name.bolo_grenade" = "Bologranade";
+"weapon.description.bolo_grenade" = "he Bolo Grenade, otherwise known as the Fragmentation Grenade, was the standard frag grenade used by the Coalition of Ordered Governments, the Locust Horde, and the Swarm.";
+"weapon.name.boltok" = "Boltok Gun";
+"weapon.description.boltok" = "It was the standard issue weapon of the Locust, especially the Drones. The pistol continues the Locust's weapon design philosophy of creating weapons with an emphasis on brute force.";
+"weapon.name.lancer" = "Assault rifle Lancer Mark 1";
+"weapon.description.lancer" = "
+Nicknamed the Retro Lancer during the Lambent Pandemic, it was the predecessor to the Lancer Mark 2 assault rifle. Previously the primary assault rifle of the Coalition of Ordered Governments army, the Mark 1 assault rifle saw use during the Pendulum War.";
+"weapon.name.lancer2" = "Assault rifle Lancer Mark 2";
+"weapon.description.lancer2" = "An upgrade to the Lancer Mark 1 assault rifle, it features a chainsaw bayonet, improved accuracy, reduced recoil, and increased ammunition capacity but less firepower than its predecessor.";
+"weapon.name.sniper" = "Long Range Sniper Rifle";
+"weapon.description.sniper" = "It was a large-caliber, single-shot sniper rifle. Created by the Coalition of Ordered Governments during the Pendulum Wars, the Longshot was also used seventeen years after Emergence Day.";
+"weapon.name.hammer_of_dawn" = "The Hammer of Dawn";
+"weapon.description.hammer_of_dawn" = "The Hammer of Dawn was a satellite-based, orbital laser powered by COG Imulsion. Its key components were invented by UIR scientist Mauris Ivo and completed by Professor Adam Fenix ​​after it was stolen during Operation: Leveler.";
+"weapon.name.mx8" = "Gun snub MX8";
+"weapon.description.mx8" = "It was the standard sidearm for personnel of the Coalition of Ordered Governments armed forces.";
+
+/* CHARACTERS */
+"character.title" = "CHARACTER";
+"character.name.lancer" = "Marcus Michael Fenix";
+"character.name.dominic" = "Dominic Santiago";
+"character.name.raam" = "RAAM";
+"character.name.augustus" = "Augustus Cole";
+"character.name.damon" = "Damon Baird";
+"character.name.anya" = "Anya Stroud";
+"character.name.anthony" = "Anthony Carmine";
+"character.name.minh" = "Minh Young Kim";
+
+"character.description.lancer" = "Marcus Michael Fenix, Sergeant of the Coalition of Ordered Governments (COG) Army, protagonist and main character of the first saga of the Gears of War universe. A highly renowned military man during the Pendulum Wars, he earned the Embry Star, the highest decoration of all, for his great deeds at the Battle of Aspho Fields.";
+"character.description.dominic" = "DominicDominic 'Dom' Santiago, A Commando Soldier of the Armed Forces of the Coalition of Ordered Governments. He was a tough warrior who had a positive attitude even in the worst of times.";
+"character.description.raam" = "Uzil RAAM, He was the second High General of the Locust Army. RAAM was once a Drone soldier, then a member of the Theron Guard.";
+"character.description.augustus" = "Augustus 'The Train Cole', a specialist soldier in the Coalition of Ordered Governments military, was a successful Thrashball player known for his flamboyant and hard-hitting style.";
+"character.description.damon" = "The Cape Damon S. Baird, Formerly a Lieutenant, he was a Gear soldier, a genius in various technical, mechanical and scientific fields.";
+"character.description.anya" = "The Prime Minister Anya Stroud, She was the first Minister of the re-established Coalition of Ordered Governments and a retired COG Army officer during the Pendulum Wars and the Locust War.";
+"character.description.anthony" = "The Soldier Anthony Carmine, He was the brother of Benjamin Carmine and Clayton Carmine. The youngest member of Delta-One, Anthony makes up for his lack of experience with unbridled enthusiasm and genuine respect for war veterans like Marcus and Dom.";
+"character.description.minh" = "The Lieutenant Minh Young Kim, was part of the Coalition of Ordered Governments Military. A Gear officer who served during the Locust War, most notably during the Lightmass Offensive.";
+
+/* MERCHANDISE */
+"merchandise.title" = "MERCHANDISE";
+"merchandise.description.m0" = "Gears of War Crimson Omen Inspired Flannel Throw Blanket";
+"merchandise.currency.m0" = "USD";
+"merchandise.price.m0" = "6.57";
+"merchandise.store.m0" = "Temu";
+"merchandise.description.m1" = "Gears of War Customizable Mug with Spoon";
+"merchandise.currency.m1" = "USD";
+"merchandise.price.m1" = "11.45";
+"merchandise.store.m1" = "Temu";
+"merchandise.description.m2" = "Lancer Gears of War";
+"merchandise.currency.m2" = "USD";
+"merchandise.price.m2" = "189.20";
+"merchandise.store.m2" = "Mercado Libre";
+"merchandise.description.m3" = "Adjustable Trucker Hat - Stylish Black Baseball Cap with Logo";
+"merchandise.currency.m3" = "USD";
+"merchandise.price.m3" = "6.04";
+"merchandise.store.m3" = "Amazon";
+"merchandise.description.m4" = "Sport Sweatshirt Gears Of War (GOW)";
+"merchandise.currency.m4" = "USD";
+"merchandise.price.m4" = "29.90";
+"merchandise.store.m4" = "Amzon";
+"merchandise.description.m5" = "Gears Of War Gear Necklace";
+"merchandise.currency.m5" = "USD";
+"merchandise.price.m5" = "8.50";
+"merchandise.store.m5" = "Mercado Libre";
+"merchandise.description.m6" = "Gears of War Crimson Omen Inspired Flannel Throw Blanket";
+"merchandise.currency.m6" = "USD";
+"merchandise.price.m6" = "14.29";
+"merchandise.store.m6" = "Amazon";
+"merchandise.description.m7" = "Gears of War School Red Backpack";
+"merchandise.currency.m7" = "USD";
+"merchandise.price.m7" = "9.99";
+"merchandise.store.m7" = "Waldo's";

@@ -6,29 +6,85 @@
   
 */
 /* MENU*/
-"menu.option.videogames" = "Videogames";
-"menu.option.weapons" = "Weapons";
-"menu.option.characters" = "Characters";
-"menu.option.merchandise" = "Merchandise";
+"menu.option.videogames" = "Jeux vidéo";
+"menu.option.weapons" = "Armes";
+"menu.option.characters" = "Personnages";
+"menu.option.merchandise" = "Marchandises";
 
 /* WEAPONS */
 "weapon.name.boomshot" = "Lanciagranate Boomshot";
-"weapon.description.boomshot" = "Era un lanciagranate a pompa a colpo singolo progettato e utilizzato principalmente da Locust, in particolare dal Boomer.";
+"weapon.description.boomshot" = "Il s'agissait d'un lance-grenades à pompe à un coup conçu et utilisé principalement par Locust, en particulier le Boomer.";
 "weapon.name.hammerburstii" = "Hammerburst II";
-"weapon.description.hammerburstii" = "Era il fucile d'assalto Locust standard ad alta potenza. Viene spesso indicato come la controparte Locust del fucile d'assalto COG Lancer.";
-"weapon.name.mulcher" = "Mulcher";
-"weapon.description.mulcher" = "Il Mulcher è un pesante fucile Gatling rotante a manovella sviluppato dalla Coalition of Ordered Governi.";
-"weapon.name.bolo_grenade" = "Bologranata";
-"weapon.description.bolo_grenade" = "La Bolo Grenade, altrimenti nota come Granata a Frammentazione, era la granata a frammentazione standard utilizzata dalla Coalition of Ordered Governments, dall'Orda di Locustee dallo Sciame.";
-"weapon.name.boltok" = "Pistola Boltok";
-"weapon.description.boltok" = "Era l'arma standard del Locust, in particolare dei Drones. La pistola continua la filosofia di progettazione delle armi del Locust di creare armi con un'enfasi sulla forza bruta.";
-"weapon.name.lancer" = "Fucile d'assalto Lancer Mark 1";
-"weapon.description.lancer" = "Soprannominato Retro Lancer durante la Lambent Pandemic, è stato il predecessore del fucile d'assalto Lancer Mark 2. Precedentemente il fucile d'assalto principale dell'esercito della Coalition of Ordered Governments, il fucile d'assalto Mark 1 è stato utilizzato durante la Guerra del Pendulum.";
-"weapon.name.lancer2" = "Fucile d'assalto Lancer Mark 2";
-"weapon.description.lancer2" = "Un aggiornamento al fucile d'assalto Lancer Mark 1, prodotto con una baionetta a motosega, maggiore precisione, rinculo inferiore e maggiore capacità di carico delle munizioni ma minore potenza di fuoco rispetto al suo predecessore.";
-"weapon.name.sniper" = "Fucile da cecchino a tiro lungo";
-"weapon.description.sniper" = "Era un fucile da cecchino a colpo singolo di grosso calibro. Creato dalla Coalition of Ordered Governments durante le Guerre Pendulum, il Longshot fu usato anche diciassette anni dopo il Giorno dell'Emersione.";
-"weapon.name.hammer_of_dawn" = "Il martello dell'alba";
-"weapon.description.hammer_of_dawn" = "Il Martello dell'Alba era un laser orbitale, basato su satellite, alimentato da COG Imulsion. I suoi componenti chiave sono stati inventati dallo scienziato dell'UIR Mauris Ivo e completati dal professor Adam Fenix dopo che è stato rubato durante l'Operazione: Livellatore.";
-"weapon.name.mx8" = "Pistola snub MX8";
-"weapon.description.mx8" = "Era l'arma da fianco standard per il personale delle forze armate della Coalition of Ordered Governments";
+"weapon.description.hammerburstii" = "C’était le fusil d’assaut Locust standard de haute puissance. Il est souvent appelé l'homologue Locust du fusil d'assaut COG Lancer.";
+"weapon.name.mulcher" = "Broyeur";
+"weapon.description.mulcher" = "Le Mulcher est un pistolet Gatling rotatif lourd à manivelle développé par la Coalition des gouvernements ordonnés.";
+"weapon.name.bolo_grenade" = "Bologranate";
+"weapon.description.bolo_grenade" = "La grenade Bolo, également connue sous le nom de grenade à fragmentation, était la grenade à fragmentation standard utilisée par la Coalition des gouvernements ordonnés, la Horde acridienne et l'Essaim.";
+"weapon.name.boltok" = "Pistolet Boltok";
+"weapon.description.boltok" = "C'était l'arme standard des Locust, en particulier des Drones. Le pistolet poursuit la philosophie de conception d'armes de Locust consistant à créer des armes en mettant l'accent sur la force brute.";
+"weapon.name.lancer" = "Fusil d'assaut Lancer Mark 1";
+"weapon.description.lancer" = "Surnommé le Retro Lancer pendant la pandémie de Lambent, c'était le prédécesseur du fusil d'assaut Lancer Mark 2. Anciennement le principal fusil d'assaut de l'armée de la Coalition des gouvernements ordonnés, le fusil d'assaut Mark 1 a été utilisé pendant la guerre du pendule.";
+"weapon.name.lancer2" = "Fusil d'assaut Lancer Mark 2";
+"weapon.description.lancer2" = "Une mise à niveau du fusil d'assaut Lancer Mark 1, fabriqué avec une baïonnette tronçonneuse, une plus grande précision, un recul plus faible et une plus grande capacité de transport de munitions mais moins de puissance de feu que son prédécesseur.";
+"weapon.name.sniper" = "Fusil de précision à longue portée";
+"weapon.description.sniper" = "Il s’agissait d’un fusil de sniper à un coup de gros calibre. Créé par la Coalition des Gouvernements Ordonnés pendant les Guerres Pendules, le Longshot a également été utilisé dix-sept ans après le Jour de l'Émergence.";
+"weapon.name.hammer_of_dawn" = "Le marteau de l'aube";
+"weapon.description.hammer_of_dawn" = "Le Hammer of Dawn était un laser orbital basé sur un satellite et alimenté par COG Imulsion. Ses composants clés ont été inventés par le scientifique de l'UIR Mauris Ivo et complétés par le professeur Adam Fenix ​​​​après son vol lors de l'opération : Leveller.";
+"weapon.name.mx8" = "Pistolet snub MX8";
+"weapon.description.mx8" = "C'était l'arme de poing standard du personnel des forces armées de la Coalition des gouvernements ordonnés.";
+
+/* CHARACTERS */
+"character.title" = "PERSONNAGE";
+"character.name.lancer" = "Marcus Michael Fenix";
+"character.name.dominic" = "Dominic Santiago";
+"character.name.raam" = "RAAM";
+"character.name.augustus" = "Augustus Cole";
+"character.name.damon" = "Damon Baird";
+"character.name.anya" = "Anya Stroud";
+"character.name.anthony" = "Anthony Carmine";
+"character.name.minh" = "Minh Young Kim";
+
+"character.description.lancer" = "Marcus Michael Fenix, Sergent de l'armée de la Coalition des gouvernements ordonnés (CGO), protagoniste et personnage principal de la première saga de l'univers Gears of War. Soldat bien connu pendant les guerres du pendule, il a obtenu l'Embry Star, la plus haute décoration de toutes, pour ses grandes actions lors de la bataille des champs d'Aspho.";
+"character.description.dominic" = "Dominic 'Dom' Santiago, Soldat de commandement des forces armées de la Coalition des gouvernements ordonnés. C'était un guerrier coriace qui possédait une attitude positive même dans les pires moments.";
+"character.description.raam" = "Uzil RAAM, Il était le deuxième haut général de l'armée acridienne. RAAM était autrefois un soldat drone, puis membre de la garde Theron.";
+"character.description.augustus" = "Augustus 'Le Tren Cole', un soldat spécialisé dans les forces armées de la Coalition des gouvernements ordonnés, était un joueur de thrashball à succès connu pour son style extravagant et énergique.";
+"character.description.damon" = "Le Cap Damon S. Baird, ancien lieutenant, il était un soldat Gear, un génie dans divers domaines techniques, mécaniques et scientifiques.";
+"character.description.anya" = "Le Premier ministre Anya Stroud, Elle a été première ministre de la Coalition rétablie des gouvernements ordonnés et officier à la retraite de l'armée du COG pendant les guerres pendulaires et la guerre antiacridienne.";
+"character.description.anthony" = "Le soldat Anthony Carmine, Il était le frère de Benjamin Carmine et Clayton Carmine. Plus jeune membre de Delta-One, Anthony compense son manque d'expérience par un enthousiasme débridé et un véritable respect pour les anciens combattants comme Marcus et Dom";
+"character.description.minh" = "Le lieutenant Minh Young Kim, Elle faisait partie des Forces armées de la Coalition des Gouvernements Ordonnés. Un officier Gear qui a servi pendant la guerre anti-acridienne, notamment pendant l'offensive Lightmass.";
+
+/* MERCHANDISE */
+"merchandise.title" = "MARCHANDISES";
+"merchandise.description.m0" = "Couverture en flanelle inspirée de Gears of War Crimson Omen";
+"merchandise.currency.m0" = "EUR";
+"merchandise.price.m0" = "6.57";
+"merchandise.store.m0" = "Temu";
+"merchandise.description.m1" = "Mug personnalisable Gears of War avec cuillère";
+"merchandise.currency.m1" = "EUR";
+"merchandise.price.m1" = "11.45";
+"merchandise.store.m1" = "Temu";
+"merchandise.description.m2" = "Lancer Gears of War";
+"merchandise.currency.m2" = "EUR";
+"merchandise.price.m2" = "189.20";
+"merchandise.store.m2" = "Mercado Libre";
+"merchandise.description.m3" = "Casquette de camionneur ajustable - Casquette de baseball noire élégante avec logo";
+"merchandise.currency.m3" = "EUR";
+"merchandise.price.m3" = "6.04";
+"merchandise.store.m3" = "Amazon";
+"merchandise.description.m4" = "Sweat-shirt de sport Gears Of War (GOW)";
+"merchandise.currency.m4" = "EUR";
+"merchandise.price.m4" = "29.90";
+"merchandise.store.m4" = "Amzon";
+"merchandise.description.m5" = "Collier Gears Of War";
+"merchandise.currency.m5" = "EUR";
+"merchandise.price.m5" = "8.50";
+"merchandise.store.m5" = "Mercado Libre";
+"merchandise.description.m6" = "Couverture en flanelle inspirée de Gears of War Crimson Omen";
+"merchandise.currency.m6" = "EUR";
+"merchandise.price.m6" = "14.29";
+"merchandise.store.m6" = "Amazon";
+"merchandise.description.m7" = "Sac à dos rouge pour l'école Gears of War";
+"merchandise.currency.m7" = "EUR";
+"merchandise.price.m7" = "9.99";
+"merchandise.store.m7" = "Waldo's";
+

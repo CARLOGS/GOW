@@ -6,29 +6,84 @@
   
 */
 /* MENU*/
-"menu.option.videogames" = "Videogames";
-"menu.option.weapons" = "Weapons";
-"menu.option.characters" = "Characters";
-"menu.option.merchandise" = "Merchandise";
+"menu.option.videogames" = "Video juegos";
+"menu.option.weapons" = "Armas";
+"menu.option.characters" = "Personajes";
+"menu.option.merchandise" = "Mercancias";
 
 /* WEAPONS */
-"weapon.name.boomshot" = "Lanciagranate Boomshot";
-"weapon.description.boomshot" = "Era un lanciagranate a pompa a colpo singolo progettato e utilizzato principalmente da Locust, in particolare dal Boomer.";
-"weapon.name.hammerburstii" = "Hammerburst II";
-"weapon.description.hammerburstii" = "Era il fucile d'assalto Locust standard ad alta potenza. Viene spesso indicato come la controparte Locust del fucile d'assalto COG Lancer.";
-"weapon.name.mulcher" = "Mulcher";
-"weapon.description.mulcher" = "Il Mulcher è un pesante fucile Gatling rotante a manovella sviluppato dalla Coalition of Ordered Governi.";
-"weapon.name.bolo_grenade" = "Bologranata";
-"weapon.description.bolo_grenade" = "La Bolo Grenade, altrimenti nota come Granata a Frammentazione, era la granata a frammentazione standard utilizzata dalla Coalition of Ordered Governments, dall'Orda di Locustee dallo Sciame.";
+"weapon.name.boomshot" = "Lanza granadas Boomshot";
+"weapon.description.boomshot" = "Era un lanzagranadas de acción con bomba de un solo disparo diseñado y utilizado principalmente por los Locust, particularmente el Boomer.";
+"weapon.name.hammerburstii" = "Martillo de explosión II";
+"weapon.description.hammerburstii" = "Era el rifle de asalto Locust estándar de alta potencia. A menudo se le conoce como la contraparte Locust del rifle de asalto COG Lancer.";
+"weapon.name.mulcher" = "Trituradora";
+"weapon.description.mulcher" = "La trituradora es una pistola pesada Gatling giratoria de manivela desarrollada por la Coalición de Gobiernos Ordenados.";
+"weapon.name.bolo_grenade" = "Bologranada";
+"weapon.description.bolo_grenade" = "La Granada Bolo, también conocida como Granada de Fragmentación, era la granada de fragmentación estándar utilizada por la Coalición de Gobiernos Ordenados, la Horda Locust y el Enjambre.";
 "weapon.name.boltok" = "Pistola Boltok";
-"weapon.description.boltok" = "Era l'arma standard del Locust, in particolare dei Drones. La pistola continua la filosofia di progettazione delle armi del Locust di creare armi con un'enfasi sulla forza bruta.";
-"weapon.name.lancer" = "Fucile d'assalto Lancer Mark 1";
-"weapon.description.lancer" = "Soprannominato Retro Lancer durante la Lambent Pandemic, è stato il predecessore del fucile d'assalto Lancer Mark 2. Precedentemente il fucile d'assalto principale dell'esercito della Coalition of Ordered Governments, il fucile d'assalto Mark 1 è stato utilizzato durante la Guerra del Pendulum.";
-"weapon.name.lancer2" = "Fucile d'assalto Lancer Mark 2";
-"weapon.description.lancer2" = "Un aggiornamento al fucile d'assalto Lancer Mark 1, prodotto con una baionetta a motosega, maggiore precisione, rinculo inferiore e maggiore capacità di carico delle munizioni ma minore potenza di fuoco rispetto al suo predecessore.";
-"weapon.name.sniper" = "Fucile da cecchino a tiro lungo";
-"weapon.description.sniper" = "Era un fucile da cecchino a colpo singolo di grosso calibro. Creato dalla Coalition of Ordered Governments durante le Guerre Pendulum, il Longshot fu usato anche diciassette anni dopo il Giorno dell'Emersione.";
-"weapon.name.hammer_of_dawn" = "Il martello dell'alba";
-"weapon.description.hammer_of_dawn" = "Il Martello dell'Alba era un laser orbitale, basato su satellite, alimentato da COG Imulsion. I suoi componenti chiave sono stati inventati dallo scienziato dell'UIR Mauris Ivo e completati dal professor Adam Fenix dopo che è stato rubato durante l'Operazione: Livellatore.";
+"weapon.description.boltok" = "Era el arma estándar de los Locust, especialmente de los Drones. La pistola continúa la filosofía de diseño de armas de los Locust de crear armas con énfasis en la fuerza bruta.";
+"weapon.name.lancer" = "Rifle de asalto Lancer Mark 1";
+"weapon.description.lancer" = "Apodado Retro Lancer durante la pandemia de Lambent, fue el predecesor del rifle de asalto Lancer Mark 2. Anteriormente el rifle de asalto principal del Ejército de la Coalición de Gobiernos Ordenados, el rifle de asalto Mark 1 se utilizó durante la Guerra del Péndulo.";
+"weapon.name.lancer2" = "Rifle de asalto  Lancer Mark 2";
+"weapon.description.lancer2" = "Una actualización del rifle de asalto Lancer Mark 1, fabricado con una bayoneta de motosierra, mayor precisión, menor retroceso y mayor capacidad de carga de munición pero menos potencia de fuego que su predecesor.";
+"weapon.name.sniper" = "Rifle de francotirador de largo alcance";
+"weapon.description.sniper" = "Era un rifle de francotirador de un solo tiro de gran calibre. Creado por la Coalición de Gobiernos Ordenados durante las Guerras del Péndulo, el Longshot también se utilizó diecisiete años después del Día de la Emergencia.";
+"weapon.name.hammer_of_dawn" = "El martillo del amanecer";
+"weapon.description.hammer_of_dawn" = "El Martillo del Alba era un láser orbital basado en satélites impulsado por COG Imulsion. Sus componentes clave fueron inventados por el científico de la UIR Mauris Ivo y completados por el profesor Adam Fenix ​​​​después de que fuera robado durante la Operación: Nivelador.";
 "weapon.name.mx8" = "Pistola snub MX8";
-"weapon.description.mx8" = "Era l'arma da fianco standard per il personale delle forze armate della Coalition of Ordered Governments";
+"weapon.description.mx8" = "Era el arma estándar para el personal de las fuerzas armadas de la Coalición de Gobiernos Ordenados.";
+
+/* CHARACTERS */
+"character.title" = "PERSONAJES";
+"character.name.lancer" = "Marcus Michael Fenix";
+"character.name.dominic" = "Dominic Santiago";
+"character.name.raam" = "RAAM";
+"character.name.augustus" = "Augustus Cole";
+"character.name.damon" = "Damon Baird";
+"character.name.anya" = "Anya Stroud";
+"character.name.anthony" = "Anthony Carmine";
+"character.name.minh" = "Minh Young Kim";
+
+"character.description.lancer" = "Marcus Michael Fenix, Sargento del Ejército de la Coalición de Gobiernos Ordenados (CGO), protagonista y personaje principal de la primera saga del universo de Gears of War. Un muy reconocido militar durante las Guerras del Péndulo, ganó la Estrella Embry, la más grande condecoración de todas, por sus grandes hazañas en la Batalla de los Campos de Aspho.";
+"character.description.dominic" = "Dominic 'Dom' Santiago, Soldado Comando de las Fuerzas Armadas de la Coalición de Gobiernos Ordenados. Fue un duro guerrero que poseyó una actitud positiva incluso en los peores momentos.";
+"character.description.raam" = "Uzil RAAM fue el segundo Alto General del Ejército Locust. RAAM fue una vez un soldado Drone, luego un miembro de la Guardia Theron.";
+"character.description.augustus" = "Augustus 'El Tren' Cole, soldado especialista de las Fuerzas Armadas de la Coalición de Gobiernos Ordenados, fue un exitoso jugador de Thrashball conocido por su extravagante y contundente estilo.";
+"character.description.damon" = "El Cabo Damon S. Baird, anteriormente Teniente, fue un soldado Gear, genio en varios campos técnicos, mecánicos y científicos.";
+"character.description.anya" = "La Primera Ministra Anya Stroud fue la primera ministra de la restablecida Coalición de Gobiernos Ordenados y una oficial retirada del Ejército de la CGO durante las Guerras del Péndulo y la Guerra Locust.";
+"character.description.anthony" = "El Soldado Anthony Carmine fue el hermano de Benjamin Carmine y Clayton Carmine. Fue el miembro más joven de Delta-Uno, Anthony compensa su falta de experiencia con un entusiasmo desenfrenado y verdadero respeto por los veteranos de guerra como Marcus y Dom.";
+"character.description.minh" = "El Teniente Minh Young Kim, fue parte de las Fuerzas Armadas de la Coalición de Gobiernos Ordenados. Un oficial Gear que sirvió durante la Guerra Locust, sobre todo durante la Ofensiva de Masa Ligera.";
+
+/* MERCHANDISE */
+"merchandise.title" = "MERCANCIAS";
+"merchandise.description.m0" = "Manta de franela inspirada en el juego Crimson Omen de Gears of War";
+"merchandise.currency.m0" = "MXN";
+"merchandise.price.m0" = "131.51";
+"merchandise.store.m0" = "Temu";
+"merchandise.description.m1" = "Taza personalizable con cuchara de Gears of War";
+"merchandise.currency.m1" = "MXN";
+"merchandise.price.m1" = "229.00";
+"merchandise.store.m1" = "Temu";
+"merchandise.description.m2" = "Lancer Gears of War";
+"merchandise.currency.m2" = "MXN";
+"merchandise.price.m2" = "3,784.00";
+"merchandise.store.m2" = "Mercado Libre";
+"merchandise.description.m3" = "Gorra de camionero ajustable: elegante gorra de béisbol negra con logotipo";
+"merchandise.currency.m3" = "MXN";
+"merchandise.price.m3" = "120.80";
+"merchandise.store.m3" = "Amazon";
+"merchandise.description.m4" = "Sudadera deportiva Gears Of War (GOW)";
+"merchandise.currency.m4" = "MXN";
+"merchandise.price.m4" = "598.00";
+"merchandise.store.m4" = "Amazon";
+"merchandise.description.m5" = "Collar con engranajes de Gears of War";
+"merchandise.currency.m5" = "MXN";
+"merchandise.price.m5" = "170.05";
+"merchandise.store.m5" = "Mercado Libre";
+"merchandise.description.m6" = "Manta de franela inspirada en el juego Crimson Omen de Gears of War";
+"merchandise.currency.m6" = "MXN";
+"merchandise.price.m6" = "285.97";
+"merchandise.store.m6" = "Amazon";
+"merchandise.description.m7" = "Mochila escolar roja de Gears of War";
+"merchandise.currency.m7" = "MXN";
+"merchandise.price.m7" = "199.99";
+"merchandise.store.m7" = "Waldo's";
