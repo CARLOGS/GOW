@@ -1,0 +1,32 @@
+//
+//  PersonageViewController.swift
+//  GOW
+//
+//  Created by CARLO GARCIA on 09/03/25.
+//
+
+import UIKit
+
+class CharacterViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+
+        // Do any additional setup after loading the view.
+
+        // Cambia el color de fondo del View
+        view.setThemeBackgroungColor()
+    }
+    
+
+    /*
+    // MARK: - Navigation
+
+    // In a storyboard-based application, you will often want to do a little preparation before navigation
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        // Get the new view controller using segue.destination.
+        // Pass the selected object to the new view controller.
+    }
+    */
+
+}
